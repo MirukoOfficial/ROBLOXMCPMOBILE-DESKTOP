@@ -1,6 +1,6 @@
-# Roblox Executor MCP - Easy Setup (for Grok)
+# Roblox Executor MCP
 
-Simple package to connect Roblox Executor MCP with Grok (Web).
+Simple package to connect Roblox Executor MCP
 
 ## Requirements
 - Windows PC
